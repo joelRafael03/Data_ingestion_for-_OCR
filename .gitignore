@@ -6,7 +6,8 @@ __pycache__/
 .env
 images
 
+images.zip
 output/
 temp/
-structured_output/
 text_reference/
+images/
