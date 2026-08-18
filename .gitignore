@@ -4,9 +4,9 @@ venv/
 __pycache__/
 *.pyc
 .env
+images
 
 output/
 temp/
 structured_output/
 text_reference/
-images
