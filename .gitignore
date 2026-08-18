@@ -1,8 +1,11 @@
 my_venv/
+.venv/
 venv/
 __pycache__/
 *.pyc
 .env
+images
+
 images.zip
 output/
 temp/

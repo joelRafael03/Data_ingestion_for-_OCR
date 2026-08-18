@@ -1,66 +1,31 @@
-import json
+import os
 import pathlib
-
-import paddleocr
-from paddleocr import PaddleOCR
-
-from schemas import OCRLine, OCRPage
-
-
-# -----------------------------
-# Versions
-# -----------------------------
-
-print(f"PaddleOCR version: {paddleocr.__version__}")
-
-import transformers
-print(f"Transformers version: {transformers.__version__}")
+import transformers #type: ignore
+import json
+import numpy as np
+import cv2 
+import easyocr #type: ignore
 
 
-# -----------------------------
+
 # Paths
-# -----------------------------
-
 PATH_TO_IMAGES = pathlib.Path(
-    "/Users/sutantojoel/060826/images"
+    "./images/sample/"
 )
-
 TEMP_PATH = pathlib.Path(
-    "/Users/sutantojoel/060826/temp"
+    "temp/"
 )
-
 TEMP_PATH.mkdir(parents=True, exist_ok=True)
-
 
 if not PATH_TO_IMAGES.exists():
     raise FileNotFoundError(
         f"{PATH_TO_IMAGES} not found."
     )
 
-
-# -----------------------------
-# Initialize PaddleOCR
-# -----------------------------
-
-ocr = PaddleOCR(
-    use_doc_orientation_classify=True,
-    use_doc_unwarping=False,
-    use_textline_orientation=False,
-    engine="paddle",
-)
-
-
-# -----------------------------
-# Master Dictionary
-# -----------------------------
-
+# Result dictionary
 all_results = {}
 
-
-# -----------------------------
-# Loop Through Images
-# -----------------------------
-
+# Loop through the images
 for image_path in PATH_TO_IMAGES.iterdir():
 
     # Skip directories
@@ -78,63 +43,40 @@ for image_path in PATH_TO_IMAGES.iterdir():
 
     print(f"Processing: {image_path.name}")
 
-
-    # -----------------------------
     # Run OCR
-    # -----------------------------
+    reader = easyocr.Reader(['en'])
+    result = reader.readtext("images/3.jpg")
+    
+    for res in result:
+        print(f"Text: {res[1]}, Coordinates: {res[0]}")
 
-    results = ocr.predict(str(image_path))
+    image = cv2.imread("images/3.jpg")
+    # Loop through each detection
+    for bbox, text, prob in result:
 
+        if prob < 0.6:
+            continue
 
-    # -----------------------------
-    # Save temporary PaddleOCR JSON
-    # -----------------------------
+        # Extract top-left and bottom-right points or polygon coordinates
+        pts = np.array(bbox, dtype=np.int32)
 
-    json_path = TEMP_PATH / "temp.json"
+        # Reshape for contour/polylines drawing
+        pts = pts.reshape((-1, 1, 2))
 
-    for result in results:
-        result.save_to_json(
-            save_path=json_path
+        # Draw a multi-point polygon bounding box
+        cv2.polylines(image, [pts], isClosed=True, color=(0, 255, 0), thickness=2)
+
+        # Put the detected text above the bounding box
+        # top_left = tuple(bbox[0])
+        cv2.putText(
+            image,
+            text,
+            #(top_left[0], top_left[1] - 10),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.5,
+            (0, 0, 255),
+            2,
         )
 
-
-    # -----------------------------
-    # Load PaddleOCR JSON
-    # -----------------------------
-
-    with open(json_path, "r") as j:
-        data = json.load(j)
-
-
-    # -----------------------------
-    # Add to Master Dictionary
-    # -----------------------------
-
-    all_results[image_path.name] = {
-        "image_path": str(image_path),
-        "rec_texts": data["rec_texts"]
-    }
-
-
-# -----------------------------
-# Save Final JSON
-# -----------------------------
-
-OUTPUT_PATH = TEMP_PATH / "all_ocr_results.json"
-
-with open(OUTPUT_PATH, "w") as f:
-    json.dump(
-        all_results,
-        f,
-        indent=4
-    )
-
-
-# -----------------------------
-# Print Final Result
-# -----------------------------
-
-print("\nFinal JSON:")
-print(json.dumps(all_results, indent=4))
-
-print(f"\nSaved to: {OUTPUT_PATH}")
+# Save or display the result image
+cv2.imwrite('output_image.jpg', image)
