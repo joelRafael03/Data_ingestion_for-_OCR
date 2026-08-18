@@ -1,10 +1,9 @@
+
 import json
 import pathlib
 
 IMAGE_PATH = pathlib.Path("images/")
 JSON_PATH = pathlib.Path("structured_output/output.json")
-OUTPUT_PATH = pathlib.Path("images_renamed/")
-OUTPUT_PATH.mkdir(exist_ok=True)
 
 # Load JSON
 with open(JSON_PATH, "r", encoding="utf-8") as f:
@@ -22,7 +21,7 @@ for i, (old_name, item) in enumerate(data.items(), start=1):
 
     # Old and new image paths
     old_path = IMAGE_PATH / old_name
-    new_path = OUTPUT_PATH / new_name
+    new_path = IMAGE_PATH / new_name
 
     # Rename physical image
     if old_path.exists():

@@ -1,0 +1,34 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fields": {
+      "Id-no": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "Name": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "Address": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "Gender": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "Date_Of_Birth": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
