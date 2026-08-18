@@ -9,11 +9,11 @@ from llm import process_ocr
 # ============================================================
 
 INPUT_FILE = Path(
-    "/Users/sutantojoel/060826/temp/all_ocr_results.json"
+    "./temp/3/all_ocr_results.json"
 )
 
 OUTPUT_DIR = Path(
-    "/Users/sutantojoel/060826/structured_output"
+    "./structured_output/"
 )
 
 OUTPUT_DIR.mkdir(
