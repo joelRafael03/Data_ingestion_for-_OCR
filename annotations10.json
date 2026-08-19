@@ -1,0 +1,122 @@
+{
+     "myKad0.jpg": {
+    "fields": {
+      "Id-no": "971015-14-6873",
+      "Name": "Cheong Kar Meng",
+      "Address1": "63 JALAN BUNGA CEMPAKA",
+      "Address2": "TAMAN MUDA",
+      "Address3": "",
+      "Postal_code": "56100 KUALA LUMPUR",
+      "State": "SELANGOR",
+      "Gender": "LELAKI"
+    }
+  },
+  "myKad1.jpg": {
+    "fields": {
+      "Id-no": "961024-23-5131",
+      "Name": "SRISEENIVASAN A/L P SUBRAMANIAM",
+      "Address1": "NO 1",
+      "Address2": "JALAN LANJUT 9",
+      "Address3": "TAMAN DESA CEMERLANG",
+      "Postal_code": "81800 ULU TIRAM",
+      "State": "JOHOR",
+      "Gender": "LELAKI"
+    }
+  },
+  "myKad2.jpg": {
+    "fields": {
+      "Id-no": "040825-13-0755",
+      "Name": "LUZMAN AL THAQIF BIN NARZARUDDIN",
+      "Address1": "NO 1",
+      "Address2": "FLAT SUNGAI RAJANG",
+      "Address3": "JALAN REPOK",
+      "Postal_Code": "96100",
+      "State": "SARAWAK",
+      "Gender": "LELAKI"
+    }
+  },
+  "myKad3.jpg": {
+    "fields": {
+      "Id-no": "830924-03-5565",
+      "Name": "WAN MOHD SAIFUDDIN BIN WAN HASAN",
+      "Address1": "NO 15",
+      "Address2": "KEDAI NATU GAJAH",
+      "Address3": "",
+      "Postal_Code": "17510 TANA MERAH",
+      "State": "KELANTAN",
+      "Gender": "LELAKI"
+    }
+  },
+  "myKad4.jpg": {
+    "fields": {
+      "Id-no": "030612-14-0440",
+      "Name": "Yong Jia Yi",
+      "Address1": "17 JALAN 1/2A",
+      "Address2": "BANDAR DAMAI PERDANA",
+      "Address3": "CHERAS",
+      "Postal_Code": "56000 KUALA LUMPUR",
+      "State": "W.PERSEKUTAN(KL)",
+      "Gender": "PEREMPUAN"
+    }
+  },
+  "myKad5.jpg": {
+    "fields": {
+      "Id-no": "880729-12-5149",
+      "Name": "MOHD SHAFIQ IKMAL BIN ABDUL RAHMAN",
+      "Address1": "RH NO 55A",
+      "Address2": "KAMPUNG KUALA",
+      "Address3": "",
+      "Postal_Code": "89600 PAPAR",
+      "State": "SABAH",
+      "Gender": "LELAKI"
+    }
+  },
+  "myKad6.jpg": {
+    "fields": {
+      "Id-no": "920920-02-5510",
+      "Name": "NUR ANIS HAFIZA BINTI SABRI",
+      "Address1": "NO 77 A BATU 6",
+      "Address2": "KAMPUNG SEMATANG",
+      "Address3": "BELAKANG PETRON",
+      "Postal_Code": "0660 KUALA KEDAH",
+      "State": "KEDAH",
+      "Gender": "PEREMPUAN" 
+    }
+  },
+  "myKad7.jpg": {
+    "fields": {
+      "Id-no": "120214-14-1172",
+      "Name": "THISSYA LAXMI A/P SUNDRA RAJAN",
+      "Address1": "VA7-11 VISTA PINGGIRAN APT.",
+      "Address2": "JALAN PINGGIRAN PUTRA 1",
+      "Address3": "TMN PINGGIRAN PUTRA SEK.2",
+      "Postal_Code": "4330 SERI KEMBANGAN",
+      "State": "SELANGOR",
+      "Gender": "PEREMPUAN"
+    }
+  },
+  "myKad8.jpg": {
+    "fields": {
+      "Id-no": "810901-501-5418",
+      "Name": "ROZITA BINTI ZAINAL",
+      "Address1": "248 FELDA PASOH TIGA",
+      "Address2": "",
+      "Address3": "",
+      "Postal_Code": "72200 BATU KIKIR",
+      "State": "NEGERI SEMBILAN",
+      "Gender": "PEREMPUAN"
+    }
+  },
+  "myKad9.jpg": {
+    "fields": {
+      "Id-no": "911020-02-5756",
+      "Name": "NURUL ATIQAH BINTI OTHMAN",
+      "Address1": "NO 33 A",
+      "Address2": "KAMPUNG BUKIT TOK HARUN",
+      "Address3": "PULAI",
+      "Postal_Code": "09100",
+      "State": "KEDAH",
+      "Gender": "PEREMPUAN"
+    }
+  }
+}
