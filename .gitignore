@@ -11,3 +11,5 @@ output/
 temp/
 text_reference/
 images/
+
+unsloth_compiled_cache/
