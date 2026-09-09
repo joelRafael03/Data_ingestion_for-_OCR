@@ -1,0 +1,1027 @@
+{
+"text":[
+        {
+          "image": "images/myKad0.jpg",
+          "Id-no": "030612-14-0440",
+          "Name": "Yong Jia Yi",
+          "Address1": "17 JALAN 1/2A",
+          "Address2": "BANDAR DAMAI PERDANA",
+          "Address3": "CHERAS",
+          "Postal_Code": "56000 KUALA LUMPUR",
+          "State": "W.PERSEKUTAN(KL)",
+          "Gender": "PEREMPUAN"
+        },
+
+        {
+          "image": "images/myKad1.jpg",
+          "Id-no": "961024-23-5131",
+          "Name": "SRISEENIVASAN A/L P. SUBRAMANIAM",
+          "Address1": "NO 1",
+          "Address2": "JALAN LANJUT 9",
+          "Address3": "TAMAN DESA CEMERLANG",
+          "Postal_code": "81800 ULU TIRAM",
+          "State": "JOHOR",
+          "Gender": "LELAKI"
+        },
+
+        {
+          "image": "images/myKad2.jpg",
+          "Id-no": "040825-13-0755",
+          "Name": "LUZMAN AL THAQIF BIN NARZARUDDIN",
+          "Address1": "NO 1",
+          "Address2": "FLAT SUNGAI RAJANG",
+          "Address3": "JALAN REPOK",
+          "Postal_Code": "96100",
+          "State": "SARAWAK",
+          "Gender": "LELAKI"
+        },
+
+        {
+          "image": "images/myKad3.jpg",
+          "Id-no": "830924-03-5565",
+          "Name": "WAN MOHD SAIFUDDIN BIN WAN HASAN",
+          "Address1": "NO 15",
+          "Address2": "KEDAI BATU GAJAH",
+          "Address3": "",
+          "Postal_Code": "17510",
+          "State": "KELANTAN",
+          "Gender": "LELAKI"
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        },
+        
+        {
+          "image": "images/myKad.jpg",
+          "Id-no": "",
+          "Name": "",
+          "Address1": "",
+          "Address2": "",
+          "Address3": "",
+          "Postal_Code": "",
+          "State": "",
+          "Gender": ""
+        }
+        
+        
+
+
+      ]
+    }
