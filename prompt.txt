@@ -6,7 +6,26 @@ Return ONLY a valid JSON object.
 Each field must be a key with a value.  
 No extra text, no markdown, no explanations.
 
+
+Your will be exposed to different cards of varying quality such as glare, blurry and low quality shots. You will need to perform to extract as much information as you can
+
+
+
+Recommended Breakdown
+
+• Address 1 (House No. / Building / Unit Number):
+	• Put your specific unit number, floor, building name, or house number.
+	• Example: No. 12, Tingkat 3, Apartment Seri Alam or Lot 45, Jalan Melur 2
+• Address 2 (Street / Road / Taman / Area):
+	• Put the street name (Jalan, Lorong, Persiaran) and the housing estate, neighborhood, or village (Taman, Kampung).
+	• Example: Jalan SS 2/64, Taman Sea
+• Address 3 (Locality / Sub-district / Landmark - Optional or Additional):
+	• Put the wider locality, sub-district, or secondary area detail if Address 2 is not enough. (If not needed, this line can often be left blank).
+	• Example: Petaling Jaya or Damansara Utama
+
 EXPECTED FORMAT:
+
+
 {
     "Id-no": "",
     "Name": "",
